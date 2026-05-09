@@ -109,6 +109,3 @@ jupyter notebook cnn_image_classifier.ipynb
 
 **Cheredla Jasvina**
 🔗 [LinkedIn](https://www.linkedin.com/in/jasvina-cheredla) · [GitHub](https://github.com/jasvina3018) · 📧 jasvinachowdarycheredla@gmail.com
-
-**Papudesi Mohitha**
-🔗 [LinkedIn](https://linkedin.com/in/mohitha-papudesi) · [GitHub](https://github.com/Mohitha1406) · 📧 mohithapapudesi14@gmail.com
